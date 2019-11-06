@@ -113,6 +113,6 @@ Example:
 ## Assumptions made/Future plans
 
 - The packages are interfaces so adding future package managers will be easy.
-- Testing is mostly stubbed at the moment - will be looked at expanding in future.
+- Testing needs expanding (only around 60% coverage atm) - will be looked at expanding in future.
 - Will be moved out of docker-compose.
 - Different caching methods will be added due to cache being an interface.
